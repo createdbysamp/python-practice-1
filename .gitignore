@@ -1,0 +1,9 @@
+# ignore specific file
+
+.DS_Store
+practicing-lists.py
+PYTHON.md
+
+# ignore directory
+
+.venv/
