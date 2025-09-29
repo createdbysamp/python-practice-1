@@ -6,4 +6,5 @@ PYTHON.md
 
 # ignore directory
 
+data/__pycache__/
 .venv/
